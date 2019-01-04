@@ -14,6 +14,6 @@ To run this code, you will need the following packages: numpy, matplotlib, netwo
 
 Author: [Anna Averina](https://www.linkedin.com/in/annaaverina/)
 
-Contributor: [Tiago Louro Alves](https://www.linkedin.com/in/tlouroalves/)
+Contributor: [Tiago Louro Alves](https://www.linkedin.com/in/tlouroalves/), Pedro Souto
 
 Supervisor: Goncalo Sommer Ribeiro 
